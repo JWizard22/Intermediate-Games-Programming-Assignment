@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/jayde/Documents/Griffith work/Intermediate Games Programming/Intermediate Games Programming Assignment/JKB_Assignment/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/jayde/Documents/Griffith work/Intermediate Games Programming/Intermediate Games Programming Assignment/JKB_Assignment/Content/LVL_Assignment.umap",
+				"C:/Users/jayde/Documents/Griffith work/Intermediate Games Programming/Intermediate Games Programming Assignment/JKB_Assignment/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset"
+			]
+		}
+	]
+}
