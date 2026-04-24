@@ -5,15 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/jayde/Documents/Griffith work/Intermediate Games Programming/Intermediate Games Programming Assignment/JKB_Assignment/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
-				"C:/Users/jayde/Documents/Griffith work/Intermediate Games Programming/Intermediate Games Programming Assignment/JKB_Assignment/Content/LVL_Assignment.umap",
-				"C:/Users/jayde/Documents/Griffith work/Intermediate Games Programming/Intermediate Games Programming Assignment/JKB_Assignment/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
-				"C:/Users/jayde/Documents/Griffith work/Intermediate Games Programming/Intermediate Games Programming Assignment/JKB_Assignment/Content/FirstPerson/Input/IMC_Default.uasset",
-				"C:/Users/jayde/Documents/Griffith work/Intermediate Games Programming/Intermediate Games Programming Assignment/JKB_Assignment/Content/MainMenu/UWB_PauseMenu.uasset",
-				"C:/Users/jayde/Documents/Griffith work/Intermediate Games Programming/Intermediate Games Programming Assignment/JKB_Assignment/Content/BluePrints/BP_GlassWall.uasset",
 				"C:/Users/s5432499/Desktop/Intermediate-Games-Programming-Assignment/JKB_Assignment/Content/LVL_Assignment.umap",
 				"C:/Users/s5432499/Desktop/Intermediate-Games-Programming-Assignment/JKB_Assignment/Content/MainMenu.umap",
-				"C:/Users/s5432499/Desktop/Intermediate-Games-Programming-Assignment/JKB_Assignment/Content/MainMenu/WB_GameTitle.uasset",
 				"C:/Users/s5432499/Desktop/Intermediate-Games-Programming-Assignment/JKB_Assignment/Content/MainMenu/UWB_GameTitle.uasset",
 				"C:/Users/s5432499/Desktop/Intermediate-Games-Programming-Assignment/JKB_Assignment/Content/MainMenu/UWB_InGameMenu.uasset",
 				"C:/Users/s5432499/Desktop/Intermediate-Games-Programming-Assignment/JKB_Assignment/Content/MainMenu/GM_MainMenu.uasset",
@@ -21,6 +14,17 @@
 				"C:/Users/s5432499/Desktop/Intermediate-Games-Programming-Assignment/JKB_Assignment/Content/FirstPerson/Input/IMC_Default.uasset",
 				"C:/Users/s5432499/Desktop/Intermediate-Games-Programming-Assignment/JKB_Assignment/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Users/s5432499/Desktop/Intermediate-Games-Programming-Assignment/JKB_Assignment/Content/MainMenu/UWB_PauseMenu.uasset",
+				"C:/Users/s5432499/Desktop/Intermediate-Games-Programming-Assignment/JKB_Assignment/Content/BluePrints/BP_GlassWall.uasset",
+				"C:/Users/s5432499/Desktop/Intermediate-Games-Programming-Assignment/JKB_Assignment/Content/Materials/M_Glass.uasset",
+				"C:/Users/s5432499/Desktop/Intermediate-Games-Programming-Assignment/JKB_Assignment/Content/BluePrints/BP_Ramp.uasset",
+				"C:/Users/s5432499/Desktop/Intermediate-Games-Programming-Assignment/JKB_Assignment/Content/BluePrints/BP_SpeedRamp.uasset",
+				"C:/Users/jayde/Documents/Griffith work/Intermediate Games Programming/Intermediate Games Programming Assignment/JKB_Assignment/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/jayde/Documents/Griffith work/Intermediate Games Programming/Intermediate Games Programming Assignment/JKB_Assignment/Content/LVL_Assignment.umap",
+				"C:/Users/jayde/Documents/Griffith work/Intermediate Games Programming/Intermediate Games Programming Assignment/JKB_Assignment/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/jayde/Documents/Griffith work/Intermediate Games Programming/Intermediate Games Programming Assignment/JKB_Assignment/Content/FirstPerson/Input/IMC_Default.uasset",
+				"C:/Users/jayde/Documents/Griffith work/Intermediate Games Programming/Intermediate Games Programming Assignment/JKB_Assignment/Content/MainMenu/UWB_PauseMenu.uasset",
+				"C:/Users/jayde/Documents/Griffith work/Intermediate Games Programming/Intermediate Games Programming Assignment/JKB_Assignment/Content/BluePrints/BP_GlassWall.uasset",
+				"C:/Users/s5432499/Desktop/Intermediate-Games-Programming-Assignment/JKB_Assignment/Content/MainMenu/WB_GameTitle.uasset",
 				"C:/Users/s5432499/Documents/Intermediate-Games-Programming-Assignment/JKB_Assignment/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset"
 			]
 		}
