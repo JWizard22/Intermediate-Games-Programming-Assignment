@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\JKB_Assignment.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\JKB_Assignment.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\JKB_AssignmentEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\JKB_Assignment">
+      <UniqueIdentifier>{838672F8-D2B2-3E97-A3CE-78F97F97E098}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\JKB_Assignment\JKB_Assignment.Build.cs">
+      <Filter>Source\JKB_Assignment</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\JKB_Assignment\JKB_Assignment.cpp">
+      <Filter>Source\JKB_Assignment</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JKB_Assignment\JKB_Assignment.h">
+      <Filter>Source\JKB_Assignment</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\JKB_Assignment\MyActor.cpp">
+      <Filter>Source\JKB_Assignment</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JKB_Assignment\MyActor.h">
+      <Filter>Source\JKB_Assignment</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
